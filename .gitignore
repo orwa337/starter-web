@@ -1,1 +1,4 @@
 unwantedfiles
+access.log
+auth.log
+error.log
